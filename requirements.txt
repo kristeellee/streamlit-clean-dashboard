@@ -3,11 +3,11 @@ pandas
 numpy
 praw
 malaya
-nltk
 emoji
 contractions
+nltk
 scikit-learn
+matplotlib
+wordcloud
 bertopic
 gensim
-wordcloud
-matplotlib
